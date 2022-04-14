@@ -1,0 +1,44 @@
+/*Joshua Nelson 04/13/2022*/
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: navy;
+}
+
+ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{background-color: azure;
+
+}
+
+img{ 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+}
+
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: navy;
+}
+
+.tableauheader{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: navy;
+    text-align: center;
+}
+
+.tableaubody{
+    width: 50%;
+}
+
+.tableaufooter{
+    text-align: center;
+}
